@@ -1,6 +1,6 @@
 import React, { SyntheticEvent } from 'react'
 import DeletePortfolio from "../DeletePortfolio/DeletePortfolio";
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 
 interface Props {
     portfolioValue: string;
